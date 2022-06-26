@@ -1,0 +1,34 @@
+
+## This file is created at the root of the project i.e. in parallel to the src folder ##
+
+
+### Java template
+# Compiled class file
+*.class
+
+
+# Log file
+*.log
+
+
+# Package Files #
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+.idea
+# Files under .idea package are ignored
+
+
+
+# Default ignored files
+# /shelf/
+# /workspace.xml
+
+
+*.iml
